@@ -1,7 +1,11 @@
 # DevOps box
-* A vagrant project with an ubuntu box with the tools needed to do DevOps
+* A vagrant project with an ubuntu box (bionic) with the tools needed to do DevOps
 
 # tools included
-* Terraform
-* AWS CLI
 * Ansible
+* AWS CLI (eb)
+* Docker
+* docker-compose
+* docker-machine
+* Packer
+* Terraform
