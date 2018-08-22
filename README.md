@@ -3,7 +3,7 @@
 
 # tools included
 * Ansible
-* AWS CLI (eb)
+* AWS CLI (including eb)
 * Docker
 * docker-compose
 * docker-machine
