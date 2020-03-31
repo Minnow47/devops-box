@@ -5,10 +5,10 @@ if [ -e /etc/redhat-release ] ; then
   REDHAT_BASED=true
 fi
 
-TERRAFORM_VERSION="0.11.8"
-PACKER_VERSION="1.2.5"
-DOCKER_COMPOSE_VERSION="1.22.0"
-DOCKER_MACHINE_VERSION="0.15.0"
+TERRAFORM_VERSION="0.12.24"
+PACKER_VERSION="1.5.5"
+DOCKER_COMPOSE_VERSION="1.25.4"
+DOCKER_MACHINE_VERSION="0.16.2"
 # create new ssh key
 [[ ! -f /home/ubuntu/.ssh/mykey ]] \
 && mkdir -p /home/ubuntu/.ssh \
